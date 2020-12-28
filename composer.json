@@ -1,0 +1,17 @@
+{
+    "name": "zhaowei/hello-world",
+    "description": "test",
+    "type": "library",
+    "license": "1",
+    "authors": [
+        {
+            "name": "zw",
+            "email": "2426595849@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "Zw\\Hello\\": "app/Lib"
+    }
+}
